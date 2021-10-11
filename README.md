@@ -2,3 +2,5 @@
 - 👀 I’m interested in computer software, technology, and mathematical related topics
 - 🌱 I’m currently learning mathematics and computer science
 - 💞️ I’m looking to collaborate on computer related projects
+
+- Studying computational mathematics at the University of Utah
