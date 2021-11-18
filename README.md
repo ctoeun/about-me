@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning mathematics and computer science
 - 💞️ I’m looking to collaborate on computer related projects
 
-- Studying computational mathematics at the University of Utah
+- Studying applied mathematics at the University of Utah with an interest in programming
