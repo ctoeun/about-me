@@ -2,7 +2,9 @@
 
 I am a student at the <em>University of Utah</em>, where I am currently studying <strong>Applied Mathematics</strong>.
 
-The programming languages I am most familiar with are <strong>Java, C#, Python, and JavaScript</strong>. Java is my strongest language and the code I use to develop data structures and algorithms in my programs.
+- The programming languages I am most familiar with are <strong>Java, C#, Python, and JavaScript</strong>. 
+- Java is my strongest language and the code I use to develop data structures and algorithms in my programs. 
+- I'm seeking internships and educational opportunities to enhance and apply current technical expertise for organizations.
 
 💻 Currently working on: [personal-website](https:///www.github.com/ctoeun/personal-website)
 
