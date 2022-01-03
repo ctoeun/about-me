@@ -1,4 +1,4 @@
-# Hello, my name is Cobi Toeun! 👋
+<h2>Hello 👋, my name is Cobi Toeun!</h2>
 
 I am a student at the <em>University of Utah</em>, where I am currently studying <strong>Applied Mathematics</strong>.
 
