@@ -6,5 +6,5 @@ I am a student at the <em>University of Utah</em>, where I am currently studying
 - Java is my strongest language and the code I use to develop data structures and algorithms in my programs. 
 - I'm seeking internships and educational opportunities to enhance and apply current technical expertise for organizations.
 
-💻 Currently working on: <strong>completing coursework fo school :P</strong> <br></br>
+💻 Currently working on: <strong>completing coursework and leetcode questions</strong> <br></br>
 🌎 Feel free to check out my [website](https://www.cobitoeun.com) to know more about me!
