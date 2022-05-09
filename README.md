@@ -8,5 +8,5 @@ I am a student at the <em>University of Utah</em>, where I am currently studying
   -  Python: Develop and conduct data analysis
 - I'm seeking internships and educational opportunities to provide a productive and positive impact on organizations.
 
-💻 Currently working on: <strong>Finals week...</strong> <br></br>
+💻 Currently working on: <strong>nothing for now</strong> <br></br>
 🌎 Feel free to check out my [website](https://www.cobitoeun.com) to know more about me!
