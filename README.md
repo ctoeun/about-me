@@ -2,10 +2,10 @@
 
 I am a student at the <em>University of Utah</em>, where I am currently studying <strong>Applied Mathematics</strong>.
 
-- The programming languages I am most familiar with are <strong>Java, Python, C# and JavaScript</strong>. 
-- Java and Python are my most proficient languages:
+- The programming languages I am most familiar with are <strong>Python, Java, C# and JavaScript</strong>. 
+- Python and Java are my most proficient languages:
+  -  Python: Web scrape, analyze data, and use machine learning models to make predictions
   -  Java: Develop data structures and algorithms, and building android-style games 
-  -  Python: Develop and conduct data analysis
 - I'm seeking internships and educational opportunities to provide a productive and positive impact on organizations.
 
 💻 Currently working on: <strong>nothing for now</strong> <br></br>
